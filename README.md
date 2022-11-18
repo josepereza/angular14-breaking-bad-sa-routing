@@ -1,6 +1,13 @@
 # BreakingBadSaRouting
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+## Creacion proyecto:
+1. ng n breaking-bad-sa-routing --inline-style --inline-template  // (con routing)
+2. cd breaking-bad-sa-routing
+3. ng g c breakingCard --flat --standalone
+4. ng g c breakingList --flat --standalone
+5. ng generate service breaking --flat 
+6. ng generate c breakingDetails --flat --standalone
 
 ## Development server
 
@@ -25,3 +32,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# angular14-breaking-bad-sa-routing
