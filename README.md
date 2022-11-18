@@ -9,6 +9,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 5. ng generate service breaking --flat 
 6. ng generate c breakingDetails --flat --standalone
 
+## Otro ejemplo de Standalone components con routing:
+* https://github.com/angular/examples/tree/main/walk-my-dog
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
